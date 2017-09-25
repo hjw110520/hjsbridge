@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hjsbridge.iml" filepath="$PROJECT_DIR$/Hjsbridge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hjsbridge_annotation/hjsbridge_annotation.iml" filepath="$PROJECT_DIR$/hjsbridge_annotation/hjsbridge_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hjsbridge_core/hjsbridge_core.iml" filepath="$PROJECT_DIR$/hjsbridge_core/hjsbridge_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hjsbridge_processor/hjsbridge_processor.iml" filepath="$PROJECT_DIR$/hjsbridge_processor/hjsbridge_processor.iml" />
+    </modules>
+  </component>
+</project>

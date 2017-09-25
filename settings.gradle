@@ -1,0 +1,1 @@
+include ':app', ':hjsbridge_annotation', ':hjsbridge_processor', ':hjsbridge_core'
